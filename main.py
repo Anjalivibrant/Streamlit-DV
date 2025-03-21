@@ -20,6 +20,6 @@ with st.sidebar:
 #load data
 @st.cache_data#to store data as cache memeory
 #df=sns.load_dataset('iris')
-st.dataframe(df)
+#st.dataframe(df)
 #image adding
-st.image("./ai-vs-human-vector.webp")
+#st.image("./ai-vs-human-vector.webp")

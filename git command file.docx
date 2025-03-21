@@ -1,7 +1,8 @@
 git init- to make local folder to git folder
-git pull "link" - to add files from github
+git pull "repo-link" - to add files from github
 git add .
 git commit -m "message"
-git remote add origin 
+git remote add origin "git-repo-link"
 git branch - > to show branches available
 git branch -M main   -> to make main nranch available
+git push -u origin main 
